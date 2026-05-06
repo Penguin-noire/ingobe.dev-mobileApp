@@ -1,0 +1,3 @@
+[submodule "ussd-module"]
+	path = ussd-module
+	url = https://github.com/Penguin-noire/ussd-exercice.git
